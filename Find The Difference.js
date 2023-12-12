@@ -28,9 +28,6 @@ function findAddedLetter(s, t) {
 
     // Return the array of added letters
     return addedLetters;
-
-    // // If no added letter is found, return null or handle accordingly
-    // return null;
 }
 
 
