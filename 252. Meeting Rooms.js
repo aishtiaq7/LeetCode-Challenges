@@ -1,5 +1,10 @@
 console.clear();
 
+/*
+    TUT: https://javascript.plainenglish.io/javascript-algorithms-meeting-rooms-leetcode-2385465b92f0
+
+*/
+
 function canAttendMeeting(intervals) {
   const arr = intervals.sort((a, b) => a[0] - b[0]);
 
